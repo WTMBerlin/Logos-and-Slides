@@ -1,2 +1,2 @@
 # slides
-Slides from all the talks and workshops at the WTM Berlin events
+WTM logos and slides from some of the talks and workshops at the WTM Berlin events
